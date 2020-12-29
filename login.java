@@ -6,7 +6,7 @@ Class Sum
 {
 	public void print()
 	{
-		System.out.println("In sum");
+		System.out.println("In sum with print method");
 	}
 
 
