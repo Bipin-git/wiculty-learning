@@ -5,6 +5,6 @@ public class Login
 	{
 		int i=10;
 		System.out.println("welcome to login");
-		return 0;
+		i++
 	}
 }
