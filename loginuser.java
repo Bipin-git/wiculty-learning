@@ -8,7 +8,7 @@ class loginuser
 		for(int i=1;i<n;i++)
 		{	
 			System.out.println("welcome to login");
-			i++;
+			
 		}	
 	}
 }
